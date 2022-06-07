@@ -31,7 +31,7 @@
 
 .header-list-notes {
     display: flex;
-    background: #999;
+    background: #000;
     border-radius: 4px;
     color: #fff;
     justify-content: space-between;
